@@ -17,7 +17,7 @@
 
 **Data / ML**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square"/> <img src="https://img.shields.io/badge/XGBoost-006ACC?style=flat-square"/> <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square"/> <img src="https://img.shields.io/badge/XGBoost-006ACC?style=flat-square"/> <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black"/> <img src="https://img.shields.io/badge/Feature%20Engineering-4B8BBE?style=flat-square"/> <img src="https://img.shields.io/badge/Ensemble%20Learning-6E40C9?style=flat-square"/> <img src="https://img.shields.io/badge/Time%20Series%20CV-2E8B57?style=flat-square"/>
 
 **Web / Infra**
 
@@ -27,9 +27,11 @@
 
 ## Activities
 
-**🏆 구름 AI 해커톤 — UniBoard** · `2026.05.09 ~ 05.10` · **대상**
+**🤖 LG Aimers 9기** · `2026.06 ~ 09` · DACON 온라인 해커톤 (LG AI연구원)
 
-> `React` `TypeScript` `Vite` `OpenAI API` `Firebase`
+> KBO 투구 데이터 기반 제구 성공 확률 예측
+>
+> Time-based CV로 데이터 누출 방지 · Feature Engineering · GBDT 앙상블 및 확률 보정
 
 <br/>
 
@@ -39,16 +41,6 @@
 
 <br/>
 
-**🤖 LG Aimers 9기** · `2026.06 ~ 09` · DACON 온라인 해커톤 (LG AI연구원)
+**🏆 구름 AI 해커톤 — UniBoard** · `2026.05.09 ~ 05.10` · **대상**
 
-> KBO 투구 데이터 기반 제구 성공 확률 예측 · 5인 팀 기술 리드
->
-> Time-based CV로 데이터 누출 방지 · Feature Engineering · GBDT 앙상블 및 확률 보정
-
----
-
-## Certifications
-
-| 자격증    | 발급기관 | 취득일 |
-| --------- | -------- | ------ |
-| _준비 중_ | —        | —      |
+> `React` `TypeScript` `Vite` `Firebase`
