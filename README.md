@@ -39,8 +39,10 @@
 >
 > 예측 파이프라인 한 축(GBDT + MLP 25모델 앙상블)과 실험·검증 체계 담당
 >
-> `as-of 누적 피처 분해`로 대회 전체 단일 변경 최대 이득 **+146.8** ·
-> `시계열 CV` `행 독립성 감사`로 데이터 누출 차단 · `확률 보정`
+> as-of 누적 피처 분해로 대회 전체 단일 변경 최대 이득 **+146.8** ·
+> 시계열 CV·행 독립성 감사로 데이터 누출 차단 · 확률 보정
+>
+> `Python` `Pandas` `NumPy` `SciPy` `scikit-learn` `LightGBM` `XGBoost` `CatBoost` `PyTorch` `Colab`
 >
 > 📂 [**m1njx/aimers-pitch-control**](https://github.com/m1njx/aimers-pitch-control) — 파이프라인 · 기법 44종 카탈로그 · 재사용 툴킷 3종
 
