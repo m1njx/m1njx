@@ -55,3 +55,25 @@
 **🏆 구름 AI 해커톤 — UniBoard** · `2026.05.09 ~ 05.10` · **대상**
 
 > `React` `TypeScript` `Vite` `Firebase`
+
+---
+
+## Projects
+
+**🧠 [나만의 AI 지식 창고](https://github.com/m1njx/ai_chat_bot)** — RAG 기반 개인 지식 검색 챗봇
+
+> PDF·뉴스·시장 데이터를 하나의 벡터 인덱스로 통합해 질의응답하는 RAG 파이프라인.
+> 백그라운드 수집기가 지식 베이스를 주기적으로 갱신하고,
+> **프롬프트 인젝션 탐지·입출력 필터링·Rate Limit** 방어 계층을 함께 구현했습니다.
+>
+> `Python` `Streamlit` `Gemini API` `FAISS` `Sentence-Transformers` `BeautifulSoup4` `pdfplumber`
+
+<br/>
+
+**📊 [코로나19 초과사망 다차원 분석](https://github.com/m1njx/data_dashboard)** — 분석 대시보드 · 보고서 자동 생성
+
+> 통계청 MDIS 사망원인통계(2016~2024) 원자료로 초과사망 규모를 정량화하고
+> 구조적 위험 요인을 통계 검증한 뒤, 3단계 정책 대안을 제안하는 시스템.
+> 분석 결과를 **PDF 보고서로 자동 생성**하는 파이프라인까지 구현했습니다.
+>
+> `FastAPI` `React` `Vite` `Pandas` `statsmodels` `SciPy` `ReportLab`
