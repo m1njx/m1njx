@@ -19,7 +19,7 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square"/> <img src="https://img.shields.io/badge/XGBoost-006ACC?style=flat-square"/> <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black"/> <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/Feature%20Engineering-4B8BBE?style=flat-square"/> <img src="https://img.shields.io/badge/Ensemble%20Learning-6E40C9?style=flat-square"/> <img src="https://img.shields.io/badge/Time%20Series%20CV-2E8B57?style=flat-square"/> <img src="https://img.shields.io/badge/Model%20Calibration-B7472A?style=flat-square"/> <img src="https://img.shields.io/badge/Data%20Leakage%20Audit-A0522D?style=flat-square"/>
+<img src="https://img.shields.io/badge/Feature%20Engineering-4B8BBE?style=flat-square"/> <img src="https://img.shields.io/badge/Ensemble%20Learning-6E40C9?style=flat-square"/> <img src="https://img.shields.io/badge/Time%20Series%20CV-2E8B57?style=flat-square"/> <img src="https://img.shields.io/badge/Model%20Calibration-B7472A?style=flat-square"/> <img src="https://img.shields.io/badge/Data%20Leakage%20Audit-A0522D?style=flat-square"/> <img src="https://img.shields.io/badge/Deep%20Learning-D14836?style=flat-square"/> <img src="https://img.shields.io/badge/Gradient%20Boosting-2C8C4A?style=flat-square"/>
 
 **AI / LLM**
 
@@ -44,7 +44,7 @@
 >
 > `Python` `Pandas` `NumPy` `SciPy` `scikit-learn` `LightGBM` `XGBoost` `CatBoost` `PyTorch` `Colab`
 >
-> 📂 [**m1njx/aimers-pitch-control**](https://github.com/m1njx/aimers-pitch-control) — 파이프라인 · 기법 44종 카탈로그 · 재사용 툴킷 3종
+> 📂 [**m1njx/aimers-pitch-control**](https://github.com/m1njx/aimers-pitch-control) — 파이프라인 · 기법 50종 카탈로그 · 재사용 툴킷 3종
 
 <br/>
 
