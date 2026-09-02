@@ -44,7 +44,7 @@
 >
 > `Python` `Pandas` `NumPy` `SciPy` `scikit-learn` `LightGBM` `XGBoost` `CatBoost` `PyTorch` `Colab`
 >
-> 📂 [**m1njx/aimers-pitch-control**](https://github.com/m1njx/aimers-pitch-control) — 파이프라인 · 기법 50종 카탈로그 · 재사용 툴킷 3종
+> 📂 [**m1njx/aimers-pitch-control**](https://github.com/m1njx/aimers-pitch-control) — 파이프라인 · 기법 52종 카탈로그 · 재사용 툴킷 3종
 
 <br/>
 
