@@ -48,6 +48,20 @@
 
 <br/>
 
+**📊 국가데이터 활용대회** · `2026.04 ~ 07` · 코로나19 초과사망 다차원 분석
+
+> 통계청 MDIS 사망원인통계(2016~2024, 약 123만 행) 원자료로 초과사망 규모를 정량화하고,
+> 구조적 위험 요인을 통계 검증한 뒤 3단계 고령층 보호 정책을 제안
+>
+> 누적 초과사망 **241,923명** 산출 · OLS 회귀 R² **0.9118** ·
+> 분석 대시보드와 **PDF 보고서 자동 생성** 파이프라인까지 구현
+>
+> `Python` `Pandas` `NumPy` `SciPy` `statsmodels` `Matplotlib` `ReportLab` `FastAPI` `React` `Vite` `Tailwind CSS`
+>
+> 📂 [**m1njx/public-data**](https://github.com/m1njx/public-data) — 재현 가능한 분석 파이프라인 · 대시보드 · 보고서 생성
+
+<br/>
+
 **🦁 멋쟁이사자처럼 대학** · `2026.03 ~ 현재`
 
 > `React` `TypeScript` `Vite` `Docker` `GCP` `OpenAI API`
@@ -62,20 +76,17 @@
 
 ## Projects
 
-**🧠 [나만의 AI 지식 창고](https://github.com/m1njx/ai_chat_bot)** — RAG 기반 개인 지식 검색 챗봇
+**🧠 나만의 AI 지식 창고** — RAG 기반 개인 지식 검색 챗봇
 
-> PDF·뉴스·시장 데이터를 하나의 벡터 인덱스로 통합해 질의응답하는 RAG 파이프라인.
-> 백그라운드 수집기가 지식 베이스를 주기적으로 갱신하고,
-> **프롬프트 인젝션 탐지·입출력 필터링·Rate Limit** 방어 계층을 함께 구현했습니다.
+> 뉴스·검색 결과·PDF를 하나의 FAISS 인덱스로 통합해 질의응답하는 RAG 파이프라인.
+> 백그라운드 수집기가 10분 주기로 지식 베이스를 갱신합니다.
 >
-> `Python` `Streamlit` `Gemini API` `FAISS` `Sentence-Transformers` `BeautifulSoup4` `pdfplumber`
-
-<br/>
-
-**📊 [코로나19 초과사망 다차원 분석](https://github.com/m1njx/data_dashboard)** — 분석 대시보드 · 보고서 자동 생성
-
-> 통계청 MDIS 사망원인통계(2016~2024) 원자료로 초과사망 규모를 정량화하고
-> 구조적 위험 요인을 통계 검증한 뒤, 3단계 정책 대안을 제안하는 시스템.
-> 분석 결과를 **PDF 보고서로 자동 생성**하는 파이프라인까지 구현했습니다.
+> **Gemini → LM Studio(로컬) → OpenAI** 3단 자동 폴백으로 제공자 장애에도 응답 유지 ·
+> SSE 스트리밍으로 첫 글자 노출 **8.8초 → 6.5초**
 >
-> `FastAPI` `React` `Vite` `Pandas` `statsmodels` `SciPy` `ReportLab`
+> 외부 수집 콘텐츠를 통한 **간접 프롬프트 인젝션**까지 고려한 2중 방어 ·
+> 출력 필터링 · XSS 방어 · 원자적 파일 쓰기 · Rate Limit
+>
+> `Python` `FastAPI` `React 19` `Vite` `Streamlit` `Gemini API` `FAISS` `Sentence-Transformers` `BeautifulSoup4` `pdfplumber`
+>
+> 📂 [**m1njx/ai_chat_bot**](https://github.com/m1njx/ai_chat_bot) — 프론트/백엔드 분리 · core.py 공유 아키텍처
