@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square"/> <img src="https://img.shields.io/badge/XGBoost-006ACC?style=flat-square"/> <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black"/> <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/Feature%20Engineering-4B8BBE?style=flat-square"/> <img src="https://img.shields.io/badge/Ensemble%20Learning-6E40C9?style=flat-square"/> <img src="https://img.shields.io/badge/Time%20Series%20CV-2E8B57?style=flat-square"/> <img src="https://img.shields.io/badge/Model%20Calibration-B7472A?style=flat-square"/> <img src="https://img.shields.io/badge/Data%20Leakage%20Audit-A0522D?style=flat-square"/> <img src="https://img.shields.io/badge/Deep%20Learning-D14836?style=flat-square"/> <img src="https://img.shields.io/badge/Gradient%20Boosting-2C8C4A?style=flat-square"/>
-
+<br/>
 <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square"/> <img src="https://img.shields.io/badge/Shapely-2C8C4A?style=flat-square"/> <img src="https://img.shields.io/badge/PyProj-3776AB?style=flat-square"/> <img src="https://img.shields.io/badge/PyArrow-D22128?style=flat-square"/> <img src="https://img.shields.io/badge/Folium-77B829?style=flat-square"/> <img src="https://img.shields.io/badge/Geospatial%20Analysis-2E8B57?style=flat-square"/> <img src="https://img.shields.io/badge/MCDM-4B8BBE?style=flat-square"/>
 
 **AI / LLM**
@@ -96,15 +96,15 @@
 
 **🧠 나만의 AI 지식 창고** — RAG 기반 개인 지식 검색 챗봇
 
-> 뉴스·검색 결과·PDF를 하나의 FAISS 인덱스로 통합해 질의응답하는 RAG 파이프라인.
+> 뉴스·검색 결과·PDF·TXT를 다국어 임베딩과 FAISS 인덱스로 통합해 질의응답하는 RAG 파이프라인.
 > 백그라운드 수집기가 10분 주기로 지식 베이스를 갱신합니다.
 >
-> **Gemini → LM Studio(로컬) → OpenAI** 3단 자동 폴백으로 제공자 장애에도 응답 유지 ·
-> SSE 스트리밍으로 첫 글자 노출 **8.8초 → 6.5초**
+> **Gemini → LM Studio(로컬) → OpenAI** 순차 폴백으로 응답 시작 전 호출 실패 시 자동 전환 ·
+> **SSE 스트리밍**으로 답변을 점진적으로 표시하고, 파일 변경 시에만 FAISS 인덱스·문서 캐시 갱신
 >
 > 외부 수집 콘텐츠를 통한 **간접 프롬프트 인젝션**까지 고려한 2중 방어 ·
 > 출력 필터링 · XSS 방어 · 원자적 파일 쓰기 · Rate Limit
 >
-> `Python` `FastAPI` `React 19` `Vite` `Streamlit` `Gemini API` `FAISS` `Sentence-Transformers` `BeautifulSoup4` `pdfplumber`
+> `Python` `FastAPI` `React 19` `Vite` `Streamlit` `Gemini API` `OpenAI API` `LM Studio` `FAISS` `Sentence-Transformers` `BeautifulSoup4` `pdfplumber`
 >
 > 📂 [**m1njx/ai_chat_bot**](https://github.com/m1njx/ai_chat_bot) — 프론트/백엔드 분리 · core.py 공유 아키텍처
