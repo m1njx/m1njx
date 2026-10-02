@@ -21,6 +21,8 @@
 <br/>
 <img src="https://img.shields.io/badge/Feature%20Engineering-4B8BBE?style=flat-square"/> <img src="https://img.shields.io/badge/Ensemble%20Learning-6E40C9?style=flat-square"/> <img src="https://img.shields.io/badge/Time%20Series%20CV-2E8B57?style=flat-square"/> <img src="https://img.shields.io/badge/Model%20Calibration-B7472A?style=flat-square"/> <img src="https://img.shields.io/badge/Data%20Leakage%20Audit-A0522D?style=flat-square"/> <img src="https://img.shields.io/badge/Deep%20Learning-D14836?style=flat-square"/> <img src="https://img.shields.io/badge/Gradient%20Boosting-2C8C4A?style=flat-square"/>
 
+<img src="https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square"/> <img src="https://img.shields.io/badge/Shapely-2C8C4A?style=flat-square"/> <img src="https://img.shields.io/badge/PyProj-3776AB?style=flat-square"/> <img src="https://img.shields.io/badge/PyArrow-D22128?style=flat-square"/> <img src="https://img.shields.io/badge/Folium-77B829?style=flat-square"/> <img src="https://img.shields.io/badge/Geospatial%20Analysis-2E8B57?style=flat-square"/> <img src="https://img.shields.io/badge/MCDM-4B8BBE?style=flat-square"/>
+
 **AI / LLM**
 
 <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-1F6FEB?style=flat-square"/>
@@ -59,6 +61,22 @@
 > `Python` `Pandas` `NumPy` `SciPy` `statsmodels` `Matplotlib` `ReportLab` `FastAPI` `React` `Vite` `Tailwind CSS`
 >
 > 📂 [**m1njx/public-data**](https://github.com/m1njx/public-data) — 재현 가능한 분석 파이프라인 · 대시보드 · 보고서 생성
+
+<br/>
+
+**🗺️ 2026 AI Blockchain Challenge in Daegu** · 소상공인·골목상권 디지털 금융
+
+> **대구 소상공인 AI 상권·창업 입지 추천 서비스** · 팀 말괄량이코물이
+>
+> 공공데이터 7종을 통합해 대구 **150개 행정동·약 11.8만 점포**의 공간 피처를 구축하고,
+> 업종·타깃 고객층에 맞춰 후보 지역의 상대적 입지 적합도를 비교하는 **다기준 의사결정(MCDM)** 추천 엔진 구현
+>
+> 도시철도 **94개 역**과 버스 **3,981개 정류소**를 결합한 대중교통 접근성 평가 ·
+> 실제 지표에 근거한 추천 사유와 **인터랙티브 GIS 대시보드** 제공 · 자동화 회귀 테스트 **213개 통과**
+>
+> `Python` `Pandas` `NumPy` `SciPy` `PyArrow` `GeoPandas` `Shapely` `PyProj` `Folium` `Streamlit`
+>
+> 📂 [**m1njx/daegu-commercial-ai**](https://github.com/m1njx/daegu-commercial-ai) — 공간 데이터 파이프라인 · 맞춤형 입지 추천 · GIS 대시보드
 
 <br/>
 
