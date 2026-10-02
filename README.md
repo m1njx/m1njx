@@ -31,6 +31,9 @@
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 
+<br/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/NAVER%20Cloud-03C75A?style=flat-square"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/WebAuthn-4B8BBE?style=flat-square"/> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square"/>
+
 ---
 
 ## Activities
@@ -108,3 +111,21 @@
 > `Python` `FastAPI` `React 19` `Vite` `Streamlit` `Gemini API` `OpenAI API` `LM Studio` `FAISS` `Sentence-Transformers` `BeautifulSoup4` `pdfplumber`
 >
 > 📂 [**m1njx/ai_chat_bot**](https://github.com/m1njx/ai_chat_bot) — 프론트/백엔드 분리 · core.py 공유 아키텍처
+
+
+<br/>
+
+**⚾ WAGLE BASEBALL (와글베이스볼)** — 회원 전용 야구 직관 아카이브 & 클럽하우스
+
+> KBO 10개 구단 팬을 위한 **직관 일정·참석 응답·추억 일기·사진 갤러리** 통합 서비스.
+> 개인별 직관 승률, 구장별 전적과 시즌 리캡을 제공하고 모바일 **PWA** 지원
+>
+> 실제 모임 기록과 KBO 데이터를 참조하는 **AI 야구 어시스턴트** ·
+> 로컬 AI 우선 호출과 Gemini 클라우드 폴백을 지원하는 멀티 제공자 구조
+>
+> **비밀번호·WebAuthn 패스키 인증**과 역할 기반 접근 제어 · PostgreSQL **RLS** 적용 ·
+> NAVER Cloud 비공개 버킷·서명 URL 기반 사진 저장 · Redis 기반 요청 제한
+>
+> `Next.js` `React 19` `TypeScript` `Tailwind CSS` `Supabase` `PostgreSQL` `NAVER Cloud Object Storage` `Vercel` `Upstash Redis` `WebAuthn` `Gemini API` `Playwright`
+>
+> 📂 [**m1njx/our-baseball**](https://github.com/m1njx/our-baseball) (비공개) — 직관 기록 · 프라이빗 갤러리 · AI 어시스턴트
