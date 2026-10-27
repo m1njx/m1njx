@@ -12,13 +12,9 @@
 
 [![Email](https://img.shields.io/badge/minje7240@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:minje7240@naver.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/민제-강-88566b3bb/)
 
-[서비스 프로젝트](#projects) &nbsp; · &nbsp; [데이터 · ML](#data--ml) &nbsp; · &nbsp; [기술 스택](#tech-stack) &nbsp; · &nbsp; [활동 · 수상](#activities--awards)
-
 </div>
 
 ---
-
-<a name="projects"></a>
 
 ## Projects
 
@@ -67,8 +63,6 @@ KBO 10개 구단 팬을 위한 직관 일정·참석 응답·기록·디지털 �
 [저장소](https://github.com/m1njx/ai_chat_bot)
 
 ---
-
-<a name="data--ml"></a>
 
 ## Data & ML
 
@@ -137,8 +131,6 @@ KBO 10개 구단 팬을 위한 직관 일정·참석 응답·기록·디지털 �
 
 ---
 
-<a name="tech-stack"></a>
-
 ## Tech Stack
 
 | 분야 | 주요 기술 |
@@ -150,8 +142,6 @@ KBO 10개 구단 팬을 위한 직관 일정·참석 응답·기록·디지털 �
 | 데이터 · 인프라 · 검증 | PostgreSQL, Supabase, Redis, NAVER Cloud Object Storage, Docker, GCP, Vercel, Playwright |
 
 ---
-
-<a name="activities--awards"></a>
 
 ## Activities & Awards
 
