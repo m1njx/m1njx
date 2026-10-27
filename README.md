@@ -37,7 +37,7 @@ KBO 10개 구단 팬을 위한 직관 일정·참석 응답·기록·디지털 �
 
 `Next.js` `React` `TypeScript` `Tailwind CSS` `Supabase` `PostgreSQL` `NAVER Cloud Object Storage` `Redis` `WebAuthn` `Playwright`
 
-[서비스](https://waglebaseball.vercel.app) · [저장소 · 비공개](https://github.com/m1njx/our-baseball)
+[m1njx/our-baseball](https://github.com/m1njx/our-baseball) · 비공개
 
 <sub>서비스 콘텐츠는 회원 인증과 접근 권한이 필요합니다.</sub>
 
@@ -60,7 +60,7 @@ KBO 10개 구단 팬을 위한 직관 일정·참석 응답·기록·디지털 �
 
 `Python` `FastAPI` `React` `Vite` `FAISS` `Sentence-Transformers` `Gemini API` `OpenAI API` `LM Studio`
 
-[저장소](https://github.com/m1njx/ai_chat_bot)
+[m1njx/ai_chat_bot](https://github.com/m1njx/ai_chat_bot)
 
 ---
 
@@ -85,7 +85,7 @@ KBO 10개 구단 팬을 위한 직관 일정·참석 응답·기록·디지털 �
 
 `Python` `Pandas` `NumPy` `SciPy` `scikit-learn` `LightGBM` `XGBoost` `CatBoost` `PyTorch`
 
-[저장소 · 본인 기여 범위](https://github.com/m1njx/aimers-pitch-control)
+[m1njx/aimers-pitch-control](https://github.com/m1njx/aimers-pitch-control)
 
 ### 📊 코로나19 초과사망 다차원 분석
 
@@ -106,7 +106,7 @@ KBO 10개 구단 팬을 위한 직관 일정·참석 응답·기록·디지털 �
 
 `Python` `Pandas` `SciPy` `statsmodels` `Matplotlib` `ReportLab` `FastAPI` `React`
 
-[저장소](https://github.com/m1njx/public-data)
+[m1njx/public-data](https://github.com/m1njx/public-data)
 
 ### 🗺️ 대구 소상공인 AI 입지 추천
 
@@ -127,7 +127,7 @@ KBO 10개 구단 팬을 위한 직관 일정·참석 응답·기록·디지털 �
 
 `Python` `Pandas` `NumPy` `SciPy` `PyArrow` `GeoPandas` `Shapely` `PyProj` `Folium` `Streamlit`
 
-[저장소](https://github.com/m1njx/daegu-commercial-ai)
+[m1njx/daegu-commercial-ai](https://github.com/m1njx/daegu-commercial-ai)
 
 ---
 
